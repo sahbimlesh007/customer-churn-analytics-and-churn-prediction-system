@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+streamlit
+python-dotenv
+plotly
+xgboost
+joblib
+openpyxl
+pymysql
+xgboost
+joblib
