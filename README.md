@@ -26,7 +26,7 @@ Customer churn directly impacts business growth and profitability. This project 
 - **Pandas & NumPy** – Data Processing
 - **Matplotlib & Seaborn** – Data Visualization
 - **Scikit-Learn** – Machine Learning
-- **XGBoost** – Advanced Classification
+- **Logistic regression** – Advanced Classification
 - **Power BI** – Interactive Dashboards
 - **Streamlit** – Web Application Deployment
 
